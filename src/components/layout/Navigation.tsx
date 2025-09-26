@@ -50,7 +50,7 @@ export function Navigation({
                 onClick={() => onNavigate(index)}
                 className="text-xs whitespace-nowrap flex-shrink-0"
               >
-                {index + 1}. {content.title.split('/')[0].trim()}
+                {content.navTitle}
               </Button>
             ))}
           </div>

@@ -3,6 +3,7 @@ export type ContentType = 'TEXT' | 'SONG';
 export interface WorshipContent {
   id: string;
   type: ContentType;
+  navTitle: string;
   title: string;
   content?: string;
   youtubeEmbed?: string;
