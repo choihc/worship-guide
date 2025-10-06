@@ -58,5 +58,12 @@ export const worshipData: WorshipService = {
       title: '세상이 줄 수 없는 평안',
       content: `말씀: 이민혁 목사`,
     },
+    {
+      id: 'prayer2',
+      type: 'TEXT',
+      navTitle: '축도',
+      title: '축도',
+      content: `축도: 이민혁 목사`,
+    },
   ],
 };
