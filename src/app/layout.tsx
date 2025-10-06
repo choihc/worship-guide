@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: '중등부 교사 워크샵',
-  description: '중등부 교사 워크샵',
+  title: '추석 가정예배',
+  description: '추석 가정예배',
 };
 
 export default function RootLayout({
